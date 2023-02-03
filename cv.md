@@ -1,7 +1,7 @@
 # **Dhanashree Kulkarni**
 
 ## Contact Details
-**Address:** 53A/21,Jerzego Bajana,Wroclaw,54129.
+**Address:** 53A/21,Jerzego Bajana,Wroclaw,54-129.
 
 **Email id:** dhanashreek2016@gmail.com
 
