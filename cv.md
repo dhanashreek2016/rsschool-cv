@@ -12,6 +12,7 @@
 ## About Myself
 ----
  Upbeat teacher devoted to promoting student learning and strengthening individual potential. I have a total of 11 years of experience in teaching Under-graduate as well as Post-graduate students.My area of expertise are Data Structures,OOPS,Microcontrollers. The zeal of learning new motivated to do my Ph.D. Currently I am pursuing my Ph.D in 5G Mobile Communication.In this tenure of teaching profession,I have developed an interest in programming.This drive of personal growth and software development I would like to achieve my new goal of becoming a front-end developer in the organization.
+ 
 ## Education
 ----
 * Currently pursuing Ph.D. --- *since 2019*.
