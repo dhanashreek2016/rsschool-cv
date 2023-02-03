@@ -84,7 +84,6 @@ NODE pop(NODE first)
 2. Published 10+ Research Papers in International Journals and Conferences like IEEE,Scopus,Eleveier.
 3. Published a Patent under Goverment of India on **"System for Efficient Waste Management"**.
 
-
 ## Strengths
 ----
 * Leadership
