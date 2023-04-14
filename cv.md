@@ -95,7 +95,6 @@ NODE pop(NODE first)
 -----
 * English
 * Hindi
-* Marathi
 
 
 
